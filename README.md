@@ -10,24 +10,25 @@
 ▪ Plan and design initiatives, goals, objectives, road-map, time-line.
 
 ## Startups
-### Some might think is difficult for startups to compete with big corporations or already established businesses. This might be the case for enterprise business models but small emerging tech/business sectors is where startups/independent teams excel in comparison by the following points:
-- Established corps are serving multiple large market segments, they cant fully optimize for new specific business.  
-- Established corps have dependencies: regulations, guidelines, permissions, authorization, old tech and standards. 
-- Based on above points they can't fully optimize for new emerging business.  
-- Is easier for new teams/startups to think revolutionary and progressive, without constraints, authoruzations,etc...
-- Breaking changes: a new team/business have less dependencies: regulations, old standards/technologies/methods/tools/stack.
-### Therefore a new business under an independent team can achieve better outcome and faster results if the members have great ideas, some experience and experties.  
+#### Some might think is difficult for startups to compete with big corporations or already established businesses. This might be the case for enterprise business models but small emerging tech/business sectors is where startups/independent teams excel in comparison by the following points:
+▪ Established corps are serving multiple large market segments, they cant fully optimize for new specific business.  
+▪ Established corps have dependencies: regulations, guidelines, permissions, authorization, old tech and standards.  
+▪ Based on above points they can't fully optimize for new emerging business.  
+▪ Is easier for new teams/startups to think revolutionary and progressive, without constraints, authoruzations,etc...  
+▪ Breaking changes: a new team/business have less dependencies: regulations, old standards/technologies/methods/tools/stack.
+
+**Therefore a new business under an independent team can achieve better outcome and faster results if the members have great ideas, some experience and experties.**  
 
 ## App Development
-Mobile apps (Native or Web) are the most used platform therefore we first concentrate on this market.  
+#### Mobile apps (Native or Web) are the most used platform therefore we first concentrate on this market.  
 
 ## First Products approach
-### For a startup is important to gain success fast => First few products are apps which:  
-▪ Made for success: Easily and Quickly made, Interest of user(survey ) 
+#### For a new startup is important to gain success fast => First few products are apps which:  
+▪ Made for success: Easily and Quickly made, Interest of user(survey)   
 ▪ New innovative ideas, be much fun to use.  
 ▪ Target's largest user group.....(in most cases-> youngsters/teenagers/girls)  
-  - easy access, willing to share with friends.  
-  - most active, free timeand online exposure.  
+  -easy access, willing to share with friends.  
+  -most active, free timeand online exposure.  
 ▪ Free marketing  => If the user base(ex: teens)love it, they will share it with friends.  
 ▪ Global marketing => Most used platform of the user base is instagram. (easy access/availability).  
 ▪ Local Marketing =>  Example: positive educational products can be offered to schools.  
@@ -46,4 +47,4 @@ Mobile apps (Native or Web) are the most used platform therefore we first concen
 ▪ Short duration: limited presentation time, possible to skip in few seconds if user is not interested.
 ▪ Product/service be same as advertised, no fake, misguiding or tricky ad. 
 ### Ad owner feed-back:
-▪ Present ratings and stats in real-time, Stats summary: number of users, expert Ratings, number of confirmed purchases by ad.
+Present ratings and stats in real-time, Stats summary: number of users, expert Ratings, count of confirmed purchased by ad.
