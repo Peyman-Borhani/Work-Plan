@@ -21,7 +21,7 @@
 #### *To sum up above points a new business under an independent team can achieve better & faster results if the members have great ideas, some experience and experties.*  
 
 ## Requirements
-▪ Base personal skills requirements: such as -> Talent & Idea, Social Charisma, management lead, motivater, Science/Ability.  
+▪ Base personal skills requirements, such as: Talent & Idea, Social Charisma, management lead, motivater, Science/Ability.  
 ▪ Must have or find a good Team.  
 ▪ Networking ( Social networks/groups, Linkedin, Git Hub, University Hub, friends, class mates, work mates...).  
 ###### (You must have few of these points. If not prepare some. Yes you can...)
