@@ -8,7 +8,7 @@
 ▪ Finding, selecting and managing team members, investors, customers.  
 ▪ Work structure/Principles Design: Rules, Regulations, Employee relations, tasks, responsiblities.  
 ▪ Plan and design initiatives, goals, objectives, road-map, time-line.
-###### ** -> *"please note as we mention "startup" word, it can refer to eiter: a new team/company/sector individualy or as a subset of an existing company(recently a popular great companies )"*
+###### -> *"please note as we mention "startup" word, it can refer to eiter: a new team/company/sector individualy or as a subset of an existing company(recently a popular great companies )"*
 
 ## Startups
 #### Some might think is difficult for startups to compete with big corporations or already established businesses. This might be the case for enterprise business models but small emerging tech/business sectors is where startups/independent teams excel in comparison by the following points:
@@ -31,9 +31,9 @@
 - New Amazing/Useful Idea.  
 - App Development.  
 - Personal Technologies.  
-- Revolutionary Idea x, 
-- Emerging/Extended Technologies/Science  
-- Popular Consumer Market (Creative & Innovative Ideas to deploy in a current popular market)
+- Revolutionary Idea X.  
+- Emerging/Extended Technologies/Science.  
+- Popular Consumer Market. (Creative & Innovative Ideas to deploy in a current popular market)
 
 ## App Development
 #### Mobile apps (Native or Web) are the most used platform therefore we first concentrate on this market.  
@@ -43,8 +43,8 @@
 ▪ Made for success: Easily and Quickly made, Interest of user(survey)   
 ▪ New innovative ideas, be much fun to use.  
 ▪ Target's largest user group.....(in most cases-> youngsters/teenagers/girls)  
- -easy access, willing to share with friends.  
- -most active, free timeand online exposure.  
+. - easy access, willing to share with friends.  
+. - most active, free timeand online exposure.  
 ▪ Free marketing  => If the user base(ex: teens)love it, they will share it with friends.  
 ▪ Global marketing => Most used platform of the user base is instagram. (easy access/availability).  
 ▪ Local Marketing =>  Example: positive educational products can be offered to schools.  
@@ -61,7 +61,7 @@
 ▪ Related: ad must have at least some relation to the user, App, product category, preferences.  
 ▪ Informative, well presented, describe facts/specs/benefits, not false or stupid videos.  
 ▪ If ad owned by the company itself the ad information must be accurate and tested by company/users.  
-▪ Short duration: limited presentation time, possible to skip in few seconds if user is not interested.
+▪ Short duration: limited presentation time, possible to skip in few seconds if user is not interested.  
 ▪ Product/service be same as advertised, no fake, misguiding or tricky ad. 
 #### Ad owner feed-back:
 Present ratings and stats in real-time, Stats summary: number of users, expert Ratings, count of confirmed purchased by ad.
