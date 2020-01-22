@@ -17,14 +17,13 @@
 ▪ Based on above points they can't fully optimize for new emerging business.  
 ▪ Is easier for new teams/startups to think revolutionary and progressive, without constraints, authoruzations,etc...  
 ▪ Breaking changes: a new team/business have less dependencies: regulations, old standards/technologies/methods/tools/stack.
-
 #### *To sum up above points a new business under an independent team can achieve better & faster results if the members have great ideas, some experience and experties.*  
 
 ## Requirements
 ▪ Few personal skills shuch as: Talent & Idea, Social Charisma, management lead, motivater, Science/tech.  
-▪ Must have/find talented team members. (A team needs: technical Lead, developer,designer, marketing, fund raiser...)
+▪ Must have/find talented team members. (A team needs: technical Lead, developer,designer, marketing, fund raiser...)  
 ▪ Networking for users and business => (Social networks/groups, friends, work-mates, Linkedin, Git Hub, Uni groups).  
-###### (You must have few of these points. If not prepare. Marketing and ads comes at later stage into Business Networking )
+###### (You must have few of above points. If not, prepare! -▪- Marketing must be included with Business Networking at completion stage)
 
 ## Startup Sectors
 - New Amazing/Useful Idea.  
