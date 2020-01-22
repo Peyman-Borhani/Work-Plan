@@ -46,7 +46,7 @@
 ▪ Free marketing  => If the user base(ex: teens)love it, they will share it with friends.  
 ▪ Global marketing => Most used platform of the user base is instagram. (easy access/availability).  
 ▪ Local Marketing =>  Example: positive educational products can be offered to schools.  
-▪ Review similar products: -1. Current project market -2. Few competitor products  -3. Different products in same category.
+▪ Review similar products: -1. Current project market -2. Few competitor products  -3. Different products in same category.  
 ▪ Question and collect user thoughts on: 1.Your idea 2.what they like to see, 3.what they are missing, 4.things they like to do.
 
 
