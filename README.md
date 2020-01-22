@@ -21,11 +21,10 @@
 #### *To sum up above points a new business under an independent team can achieve better & faster results if the members have great ideas, some experience and experties.*  
 
 ## Requirements
-▪ Few Personal skills shuch as: Talent & Idea, Social Charisma, management lead, motivater, Science/tech.  
+▪ Few personal skills shuch as: Talent & Idea, Social Charisma, management lead, motivater, Science/tech.  
 ▪ Must have/find talented team members. (A team needs: technical Lead, developer,designer, marketing, fund raiser...)
-▪ Networking ( Social networks/groups, Linkedin, Git Hub, University Hub, friends, class mates, work mates...).  
-###### (You must have few of these points. If not prepare some. Yes you can...)
-
+▪ Networking for users and business => (Social networks/groups, friends, work-mates, Linkedin, Git Hub, Uni groups).  
+###### (You must have few of these points. If not prepare. Marketing and ads comes at later stage into Business Networking )
 
 ## Startup Sectors
 - New Amazing/Useful Idea.  
@@ -49,6 +48,8 @@
 ▪ Global marketing => Most used platform of the user base is instagram. (easy access/availability).  
 ▪ Local Marketing =>  Example: positive educational products can be offered to schools.  
 ▪ Review similar products: -1. Current project market -2. Few competitor products  -3. Different products in same category.
+▪ Question and collect user thoughts on: 1.Your idea 2.what they like to see, 3.what they are missing, 4.things they like to do.
+
 
 ## Personal Technologies  
 2nd most Successful new business sector. ( To be completed in next updates )
