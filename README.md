@@ -11,11 +11,11 @@
 ###### -> *"please note as we mention "startup" word, it can refer to eiter: a new team/company/sector individualy or as a subset of an existing company(recently a popular great companies )"*
 
 ## Startups
-#### Some might think is difficult for startups to compete with big corporations or already established businesses. This might be the case for enterprise business models but small emerging tech/business sectors is where startups/independent teams excel in comparison by the following points:
-▪ Established corps are serving multiple large market segments, they cant fully optimize for new specific business.  
-▪ Established corps have dependencies: regulations, guidelines, permissions, authorization, old tech and standards.  
+#### Some might think is difficult for startups to compete with big corporations or already established businesses. This might be the case for enterprise business models but small emerging tech/business sectors is where startups/independent teams excel in comparison by the following reasons:
+▪ Big Corporations are serving multiple large market segments, they can't update/optimize for new specific business.  
+▪ Established corps have dependencies: regulations, paperworks, permissions, authorization, old tech and standards.  
 ▪ Based on above points they can't fully optimize for new emerging business.  
-▪ Is easier for new teams/startups to think revolutionary and progressive, without constraints, authoruzations,etc...  
+▪ Is easier for new teams/startups to think revolutionary and progressive, without constraints, authorizations,etc...  
 ▪ Breaking changes: a new team/business have less dependencies: regulations, old standards/technologies/methods/tools/stack.
 #### *To sum up above points a new business under an independent team can achieve better & faster results if the members have great ideas, some experience and experties.*  
 
@@ -65,3 +65,6 @@
 ▪ Product/service be same as advertised, no fake, misguiding or tricky ad. 
 #### Ad owner feed-back:
 Present ratings and stats in real-time, Stats summary: number of users, expert Ratings, count of confirmed purchased by ad.
+
+#### Todo ETC
+Time is limited, use precious time to make progress, don't waste it on burocracy, otherwise your employees will spend it to do paper works, gold plating and follow ing rules & regulations...
