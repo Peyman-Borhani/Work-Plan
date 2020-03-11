@@ -1,7 +1,7 @@
 # Work-Plan   
 💡📝💱💻♻📊$✔...*(Under Construction)* 🛠
 
-▪ A guideline for a better start in career, startup, team work/lead/management.  
+▪ A guideline for a better start in career, startup or new team -> work/lead/management.  
 ▪ Best practices and ideas to achieve more successful results.  
 ▪ Building an amazing team/company/work place.  
 ▪ Planning main elements: service/product, career goals, objectives, target market, evaluations.  
@@ -20,13 +20,13 @@
 #### *To sum up above points a new business under an independent team can achieve better & faster results if the members have great ideas, some experience and experties.*  
 
 ## Requirements
-▪ Few personal skills shuch as: Talent & Idea, Social Charisma, management lead, motivater, Science/tech.  
+▪ The founder must have multiple personal skills shuch as: Talent & Idea, Social Charisma, management lead, motivater, Science/tech.  
 ▪ Must have/find talented team members. (A team needs: technical Lead, developer,designer, marketing, fund raiser...)  
 ▪ Networking for users and business => (Social networks/groups, friends, work-mates, Linkedin, Git Hub, Uni groups).  
 ###### (You must have few of above points. If not, prepare! -▪- Marketing must be included with Business Networking at completion stage)
 
-## Startup Sectors
-- New Amazing/Useful Idea.  
+## Startup Streams
+- New Solution Amazing/Useful Ideas.  
 - App Development.  
 - Personal Technologies.  
 - Revolutionary Idea X.  
@@ -42,7 +42,7 @@
 ▪ New innovative ideas, be much fun to use.  
 ▪ Target's largest user group.....(in most cases-> youngsters/teenagers/girls)  
 . - easy access, willing to share with friends.  
-. - most active, free timeand online exposure.  
+. - most active, free time and online exposure.  
 ▪ Free marketing  => If the user base(ex: teens)love it, they will share it with friends.  
 ▪ Global marketing => Most used platform of the user base is instagram. (easy access/availability).  
 ▪ Local Marketing =>  Example: positive educational products can be offered to schools.  
@@ -51,7 +51,13 @@
 
 
 ## Personal Technologies  
-2nd most Successful new business sector. ( To be completed in next updates )
+New business. Might be one of the most Successful startup sectors in future.  
+Limited personal rights to assist in safeguarding users life/health.  
+(must include regulations to comply with public spaces, non violent base protection against unseen future treats is mindful.  
+▪ Personal/Community information solutions: Community made knowledge portals. User is assisted by AI's help.  
+▪ Personal Protection:   basic protective wearables. portable armored dress, shield, reactive mechanisms.  
+▪ Personal rights of intruder repeling solutions: assistive micro wearables. lawful replacment of weapons or other violent offence.  
+▪ Personal sanctuary solutions. portable home, personal space non penetrable, hidden,... an update to tent. regulated in public spaces. ( To be completed in next updates )
 
 
 ## Advertisement
