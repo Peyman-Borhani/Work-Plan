@@ -53,11 +53,11 @@
 ## Personal Technologies  
 New business. Might be one of the most Successful startup sectors in future.  
 Limited personal rights to assist in safeguarding users life/health.  
-(must include regulations to comply with public spaces, non violent base protection against unseen future treats is mindful.  
+Must include regulations to comply for public spaces, non-violent private protection to prevent treats/damage is mindful.  
 ▪ Personal/Community information solutions: Community made knowledge portals. User is assisted by AI's help.  
 ▪ Personal Protection:   basic protective wearables. portable armored dress, shield, reactive mechanisms.  
 ▪ Personal rights of intruder repeling solutions: assistive micro wearables. lawful replacment of weapons or other violent offence.  
-▪ Personal sanctuary solutions. portable home, personal space non penetrable, hidden,... an update to tent. regulated in public spaces. ( To be completed in next updates )
+▪ Personal sanctuary solutions. portable body housing, personal space, hidden, private/public safety, update to small tent. regulated in public spaces. ( To be completed in next updates )
 
 
 ## Advertisement
