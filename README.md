@@ -47,17 +47,17 @@
 ▪ Global marketing => Most used platform of the user base is instagram. (easy access/availability).  
 ▪ Local Marketing =>  Example: positive educational products can be offered to schools.  
 ▪ Review similar products: -1. Current project market -2. Few competitor products  -3. Different products in same category.  
-▪ Question and collect user thoughts on: 1.Your idea 2.what they like to see, 3.what they are missing, 4.things they like to do.
+▪ Question/Collect user thoughts on: 1. our idea 2.what they expect, 3.what they need, 4.things they like to do.
 
 
 ## Personal Technologies  
 New business. Might be one of the most Successful startup sectors in future.  
 Limited personal rights to assist in safeguarding users life/health.  
-Must be regulated to comply with law for public usage, non-violent private protection to prevent treats/damage is mindful.  
 ▪ Personal/Community information solutions: Community made knowledge portals. User is assisted by AI's help.  
 ▪ Personal Protective gear: basic protection, wearable, portable. armored dress, shield, reactive mechanism.  
-▪ Personal intruder repelant gears: assistive wearable. violence interruption, peaceful replacement of weapons harming gears.  
-▪ Personal sanctuary solutions. portable body housing, personal space, hidden, private/public safety, update to small tent. regulated in public spaces. ( To be completed in next updates )
+▪ Personal intruder repelant gears: assistive wearable. Interrupt violence, peaceful replacement of weapons harming gears.  
+▪ Personal sanctuary solutions. portable body housing, personal space, hidden, private/public safety, update to small tent. 
+Must be regulated in public spaces to comply with law for public usage, non-violent private protection to prevent treat/damage is mindful.
 
 
 ## Advertisement
