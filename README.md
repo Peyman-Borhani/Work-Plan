@@ -53,10 +53,10 @@
 ## Personal Technologies  
 New business. Might be one of the most Successful startup sectors in future.  
 Limited personal rights to assist in safeguarding users life/health.  
-Must include regulations to comply for public spaces, non-violent private protection to prevent treats/damage is mindful.  
+Must be regulated to comply with law for public usage, non-violent private protection to prevent treats/damage is mindful.  
 ▪ Personal/Community information solutions: Community made knowledge portals. User is assisted by AI's help.  
-▪ Personal Protection:   basic protective wearables. portable armored dress, shield, reactive mechanisms.  
-▪ Personal rights of intruder repeling solutions: assistive micro wearables. lawful replacment of weapons or other violent offence.  
+▪ Personal Protective gear: basic protection, wearable, portable. armored dress, shield, reactive mechanism.  
+▪ Personal intruder repelant gears: assistive wearable. violence interruption, peaceful replacement of weapons harming gears.  
 ▪ Personal sanctuary solutions. portable body housing, personal space, hidden, private/public safety, update to small tent. regulated in public spaces. ( To be completed in next updates )
 
 
@@ -73,4 +73,4 @@ Must include regulations to comply for public spaces, non-violent private protec
 Present ratings and stats in real-time, Stats summary: number of users, expert Ratings, count of confirmed purchased by ad.
 
 #### Todo ETC
-Time is limited, use precious time to make progress, don't waste it on burocracy, otherwise your employees will spend it to do paper works, gold plating and follow ing rules & regulations...
+Time is limited, use precious time to make progress, don't waste it on bureaucracy, otherwise your employees will spend it to do paper works, gold plating and follow ing rules & regulations...
