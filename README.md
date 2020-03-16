@@ -8,15 +8,16 @@
 ▪ Finding, selecting and managing team members, investors, customers.  
 ▪ Work structure/Principles Design: Rules, Regulations, Employee relations, tasks, responsiblities.  
 ▪ Plan and design initiatives, goals, objectives, road-map, time-line.
-###### -> *"please note as we mention "startup" word, it can refer to eiter: a new team/company/sector individualy or as a subset of an existing company(recently a popular great companies )"*
+###### -> *"note that this work plan guide is useful for eiter: a "startup", a new team/company... or as a new subset of an existing company( efficient to independently )"*
 
 ## Startups
-#### Some might think is difficult for startups to compete with big corporations or already established businesses. This might be the case for enterprise business models but small emerging tech/business sectors is where startups/independent teams excel in comparison by the following reasons:
+#### Some might think is difficult for startups to compete with big corporations or well established businesses. This might be the case for enterprise business models but  a new business sectors or emerging/evolving technologies are where startups excel in comparison by the following reasons:
 ▪ Big Corporations are serving multiple large market segments, they can't update/optimize for new specific business.  
 ▪ Established corps have dependencies: regulations, paperworks, permissions, authorization, old tech and standards.  
 ▪ Based on above points they can't fully optimize for new emerging business.  
 ▪ Is easier for new teams/startups to think revolutionary and progressive, without constraints, authorizations,etc...  
-▪ Breaking changes: a new team/business have less dependencies: regulations, old standards/technologies/methods/tools/stack.
+▪ Breaking changes: a new team has less dependencies vs a team depending on a mother company following their:  
+.- rules, regulations, methods and old standards/technologies/tools/stack.
 #### *To sum up above points a new business under an independent team can achieve better & faster results if the members have great ideas, some experience and experties.*  
 
 ## Requirements
