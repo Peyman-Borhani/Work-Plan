@@ -21,10 +21,14 @@
 #### *To sum up above points a new business under an independent team can achieve better & faster results if the members have great ideas, some experience and experties.*  
 
 ## Requirements
+▪ Idea/Plan of Products, Services or other outcome of significance. to be unique, great, interesting, useful or fun.
 ▪ The founder must have multiple personal skills shuch as: Talent & Idea, Social Charisma, management lead, motivater, Science/tech.  
 ▪ Must have/find talented team members. (A team needs: technical Lead, developer,designer, marketing, fund raiser...)  
 ▪ Networking for users and business => (Social networks/groups, friends, work-mates, Linkedin, Git Hub, Uni groups).  
-###### (You must have few of above points. If not, prepare! -▪- Marketing must be included with Business Networking at completion stage)
+▪ Mental conditions: your personal mindset that moves you forward -> goal, pain, willpower,... keeping your mind focused.  
+▪ Other conditions:  
+.-Support yourself/your team -> expenses: funding/side income, startup location, physical/mental health+energy, progress.
+###### (You must have few of above points. If not, prepare! -▪- include Marketing into Business Networking when near completion stage)
 
 ## Startup Streams
 - New Solution Amazing/Useful Ideas.  
